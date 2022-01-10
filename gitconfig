@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ttatsianatt@gmail.com
+	name = Tatsiana Trakhimets
